@@ -25,3 +25,8 @@ You can use any static file server. One simple option is:
 ```bash
 npm install
 npm run start
+```
+
+## Attribution
+
+This repository was cloned from [MuminjonGuru/github-mcp-demo-repo](https://github.com/MuminjonGuru/github-mcp-demo-repo).
