@@ -143,6 +143,14 @@ h1 {
   font-size: 14px;
 }
 
+.empty-state {
+  padding: 32px 16px;
+  text-align: center;
+  color: #64748b;
+  font-size: 15px;
+  list-style: none;
+}
+
 .visually-hidden {
   position: absolute;
   left: -9999px;
